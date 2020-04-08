@@ -226,7 +226,7 @@ normalize <- function(x) {
 # # normalize data
 super.stack <- normalize(super.stack)
 
-setwd("/Users/austinsmith/Desktop/A.chukar_dismo")
+#setwd("/Users/austinsmith/Desktop/A.chukar_dismo")
 saveRDS(super.stack,"super.stack.rds")
 
 # ###### PCA
